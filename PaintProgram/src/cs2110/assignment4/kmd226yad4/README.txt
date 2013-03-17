@@ -1,0 +1,1 @@
+Yogisha Dixit & Kathryn Dearyad4, kmd226In order to prevent the circle or line going out of bounds of the frame of the image, we created a rectangle that covers the portions of these shapes that go out of bounds.
